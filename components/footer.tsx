@@ -61,7 +61,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-primary-foreground/80">
-          <p>Copyright © {currentYear} OSKAR ENTERPRISES. All rights reserved.</p>
+          <p>Copyright © {currentYear} Jeen Mata Engineering. All rights reserved.</p>
         </div>
       </div>
     </footer>
