@@ -23,7 +23,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-8">
           <div>
-            <h3 className="text-2xl font-bold mb-4">Jeen Mata Engineering</h3>
+            <h3 className="text-2xl font-bold mb-4">Kishan enterprise</h3>
             <p className="text-primary-foreground/80 leading-relaxed">Delivering Solutions, On Time</p>
           </div>
 
@@ -61,7 +61,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-primary-foreground/80">
-          <p>Copyright © {currentYear} Jeen Mata Engineering. All rights reserved.</p>
+          <p>Copyright © {currentYear} Kishan enterprise. All rights reserved.</p>
         </div>
       </div>
     </footer>
