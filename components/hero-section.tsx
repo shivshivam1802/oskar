@@ -14,7 +14,7 @@ export function HeroSection() {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight text-balance">
-            OSKAR ENTERPRISES – Reliable Digital & Business Solutions
+            SATGURU ELECTROMAC – Reliable Digital & Business Solutions
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground mb-10 max-w-2xl mx-auto leading-relaxed">
             Delivering high-quality, scalable, and on-time solutions for growing businesses.
